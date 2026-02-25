@@ -1,28 +1,64 @@
-# 👋 Olá, eu sou Alan Braga
+# 👋 Hi, I'm Alan Braga
 
-🎯 Estagiário DevOps em evolução para DevOps Júnior  
-💻 Foco em: Linux | Git | CI/CD | Docker | Cloud  
-📍 Indaiatuba - SP  
+🎯 DevOps Intern evolving into a DevOps Engineer  
+💻 Focused on Linux, CI/CD, Containers, and Cloud Infrastructure  
+📍 Indaiatuba, São Paulo - Brazil  
 
-## 🚀 Skills Técnicas
+---
+
+## 🚀 Technical Skills
+
+**Operating Systems**
 - Linux (Ubuntu, CentOS)
-- Git e GitHub
+
+**Version Control & CI/CD**
+- Git & GitHub
 - GitLab CI/CD
+
+**Containers & Virtualization**
 - Docker
+- VMware vCenter
+
+**Infrastructure as Code**
+- Terraform
+
+**Programming & Scripting**
 - Python
-- AWS (básico)
 - Shell Script
-- vcenter
-- terraform
-- html
-- css
-- java script
+- JavaScript
+- HTML & CSS
 
-## 📂 Projetos em Destaque
-- 🔹 GitLab Runner Monitor
-- 🔹 Pipeline CI/CD com Docker
-- 🔹 Script de automação em Python
+**Cloud**
+- AWS (Foundational knowledge)
 
-## 📫 Contato
-- LinkedIn: (https://www.linkedin.com/in/alan-braga-b9850127b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: (alanbraga367@gmail.com)
+---
+
+## 📂 Featured Projects
+
+🔹 **GitLab Runner Monitor**  
+Automation script to identify and notify non-compliant GitLab runners.
+
+🔹 **CI/CD Pipeline with Docker**  
+Automated build and deployment pipeline using GitLab CI and containerization.
+
+🔹 **Infrastructure Provisioning with Terraform**  
+Basic infrastructure automation using Infrastructure as Code principles.
+
+🔹 **Automation Scripts in Python**  
+Process automation and monitoring tools.
+
+---
+
+## 📈 Currently Improving
+
+- Cloud architecture fundamentals
+- Advanced Docker usage
+- Kubernetes basics
+- Monitoring and observability tools
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/alan-braga-b9850127b  
+- Email: alanbraga367@gmail.com
